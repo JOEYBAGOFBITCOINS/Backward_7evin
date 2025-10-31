@@ -69,7 +69,8 @@ with col1:
     """, unsafe_allow_html=True)
 
 with col2:
-    st.image("/workspaces/Backward_7evin/backward7evin_Logo.png", use_container_width=True)
+    st.image("backward7evin_Logo.png", use_container_width=True)
+
 
 st.markdown("""
 <style>
