@@ -13,10 +13,10 @@ Features
 - AI trading direction output (LONG, SHORT, HOLD) with confidence levels  
 
 How to Run Locally
-1. Install requirements:  
-   pip install -r requirements.txt  
+1. cd /workspaces/FuelTrakr_Joey_B/figma_project
+
 2. Run the app:  
-   streamlit run app.py  
+   npm run dev  
 
 Live App
 Access the deployed application at:  
